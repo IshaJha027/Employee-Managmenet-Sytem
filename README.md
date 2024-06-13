@@ -1,4 +1,4 @@
-# Employee-Managmenet-Sytem
+# Employee-Managmenet-System
 Employee Management System
 This project is an Employee Management System built using Spring, Hibernate, and Java. It provides functionalities for employee registration, login, and a welcome page with personalized messages.
 
